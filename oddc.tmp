@@ -1,0 +1,4 @@
+14:55:52 PCRDS>
+14:55:52 PCRDS>oradebug doc component
+ORA-01031: insufficient privileges
+14:55:53 PCRDS>spool off
